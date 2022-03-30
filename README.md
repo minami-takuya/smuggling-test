@@ -1,3 +1,8 @@
+```
+docker-compose up -d
+docker attach cve-2020-25613_ruby-app_1
+```
+
 # POC
 ```
 POST / HTTP/1.1
