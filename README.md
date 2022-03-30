@@ -1,6 +1,6 @@
 ```
 docker-compose up -d
-docker attach cve-2020-25613_ruby-app_1
+docker attach ruby-app(コンテナ名）
 ```
 
 # POC
